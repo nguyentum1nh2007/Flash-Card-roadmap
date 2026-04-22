@@ -1,9 +1,8 @@
-* Flash Cards: 
+Flash Cards: 
 - Create a flash card app using JavaScript frameworks.
 
 https://roadmap.sh/projects/flash-cards
-
-* Requirements: 
+Requirements: 
 - You are required to develop a flash cards app with the following features:
 
 + Pre-defined flashcards with questions and answers
